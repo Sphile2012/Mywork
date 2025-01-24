@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "bnb-hotel-clone/bnb-hotel-clone",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "npm: build - bnb-hotel-clone/bnb-hotel-clone",
+			"detail": "react-scripts build"
+		}
+	]
+}
